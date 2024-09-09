@@ -1,0 +1,1 @@
+# 🐪 OCaml + Nix project template ❄️
